@@ -1,4 +1,4 @@
-<img align="right" src="https://vbr.nathanchung.dev/badge?page_id=mossi1mj.mossi1mj&color=590d22&style=for-the-badge&logo=Github&hit=false" />
+<img align="right" src="https://komarev.com/ghpvc/?username=mossi1mj&style=for-the-badge&color=590d22&label=VISTORS&base=1387&abbreviated=true" />
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Myron
 
