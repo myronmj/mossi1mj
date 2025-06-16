@@ -4,11 +4,15 @@
 
 I'm a **Software Engineer** who's passionate about creating meaningful digital experiences and solving real-worls problems through code.
 
-[![Email](https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white)](mailto:mossjmyron@gmail.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mossjmyron/)
+<p align="center">
+    <a href="mailto:mossjmyron@gmail.com" >
+        <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/mossjmyron/" >
+        <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</p>
 
-
-##
 
 ```python
 dev = Developer("Myron")
@@ -18,7 +22,6 @@ while dev.isCoding():
     dev.open_ai_tool()
     dev.drink_water()
 ```
-##
 
 <table align="center">
   <tr>
@@ -67,6 +70,7 @@ while dev.isCoding():
   </tr>
 </table>
 
+##
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mossi1mj&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
