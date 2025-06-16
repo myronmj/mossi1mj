@@ -12,7 +12,7 @@ I'm a **Software Engineer** who's passionate about creating meaningful digital e
 -->
 
 <p align="center">
-  <a href="mailto:mossjmyron@gmail.com"><img src="https://img.shields.io/badge/e‑mail-333333.svg?style=for-the-badge&logo=GMail&logoColor=red"/></a>
+  <a href="mailto:mossjmyron@gmail.com"><img src="https://img.shields.io/badge/mail-333333.svg?style=for-the-badge&logo=GMail&logoColor=red"/></a>
   <a href="https://www.linkedin.com/in/mossjmyron/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
