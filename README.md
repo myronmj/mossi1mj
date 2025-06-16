@@ -2,7 +2,7 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Myron
 
-I'm a **Software Engineer** who's passionate about creating meaningful digital experiences and solving real-worls problems through code. Feel free to reach out to me:
+I'm a **Software Engineer** who's passionate about creating meaningful digital experiences and solving real-worls problems through code.
 
 [![Email](https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white)](mailto:mossjmyron@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mossjmyron/)
