@@ -5,10 +5,10 @@
 I'm a **Software Engineer** who's passionate about creating meaningful digital experiences and solving real-worls problems through code.
 
 <p align="center">
-    <a href="mailto:mossjmyron@gmail.com" >
+    <a href="mailto:mossjmyron@gmail.com">
         <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/mossjmyron/" >
+    <a href="https://www.linkedin.com/in/mossjmyron/">
         <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
