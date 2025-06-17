@@ -35,7 +35,7 @@ miltary_service: {
     branch: Army National Guard,
     rank: Captain,
     MOS: 31A,
-    }
+  }
 ```
 
 ```python
