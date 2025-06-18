@@ -31,8 +31,15 @@ technical_background:
     "Release Coordinator",
   ]
 education:
-  ["Bachelor's in Computer Science", "Associate's in Information Technology"]
-miltary_service: { branch: Army National Guard, rank: Captain, MOS: 31A }
+  [
+    "Bachelor's in Computer Science",
+    "Associate's in Information Technology"
+  ]
+miltary_service: {
+   branch: Army National Guard,
+   rank: Captain,
+   MOS: 31A
+ }
 ```
 
 ```python
