@@ -6,11 +6,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Myron%20Moss&desc=Turning%20ideas%20to%20impact%20with%20clean,%20scalable%20code&descAlign=60&descAlignY=65" />
 </p>
 
-<!--- ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Myron 
+<p align='center'>
+<img src="avatar.PNG" alt="avatar" width="200" />
+</p>
 
-I'm a **Software Engineer** who's passionate about creating meaningful digital experiences and solving real-worls problems through code. 
+<!--- ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Myron
+
+I'm a **Software Engineer** who's passionate about creating meaningful digital experiences and solving real-worls problems through code.
 -->
-
+ 
 <p align="center">
   <a href="mailto:mossjmyron@gmail.com"><img src="https://img.shields.io/badge/email-333333.svg?style=for-the-badge&logo=GMail&logoColor=red"/></a>
   <a href="https://www.linkedin.com/in/mossjmyron/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -20,22 +24,15 @@ I'm a **Software Engineer** who's passionate about creating meaningful digital e
 name: Myron Moss
 current_role: Software Engineer
 technical_background:
-    [
-        "Software Engineer",
-        "Software Developer",
-        "DevOps/Release Engineer",
-        "Release Coordinator",
-    ]
+  [
+    "Software Engineer",
+    "Software Developer",
+    "DevOps/Release Engineer",
+    "Release Coordinator",
+  ]
 education:
-    [
-        "Bachelor's in Computer Science",
-        "Associate's in Information Technology",
-    ]
-miltary_service: {
-    branch: Army National Guard,
-    rank: Captain,
-    MOS: 31A,
-  }
+  ["Bachelor's in Computer Science", "Associate's in Information Technology"]
+miltary_service: { branch: Army National Guard, rank: Captain, MOS: 31A }
 ```
 
 ```python
@@ -102,4 +99,3 @@ while dev.isCoding():
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=mossi1mj&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
-
