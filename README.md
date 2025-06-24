@@ -17,11 +17,6 @@ I'm a **Software Engineer** who's passionate about creating meaningful digital e
 -->
 
 I'm a Software Engineer passionate about creating clean, performant web experiences — both front-end and full-stack. From internal enterprise tools to AI-powered prototypes, I love building solutions that look good and *work even better*.
- 
-<p align="center">
-  <a href="mailto:mossjmyron@gmail.com"><img src="https://img.shields.io/badge/email-333333.svg?style=for-the-badge&logo=GMail&logoColor=red"/></a>
-  <a href="https://www.linkedin.com/in/mossjmyron/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
 ```python
 dev = Developer("Myron")
