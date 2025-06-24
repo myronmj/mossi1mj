@@ -92,11 +92,13 @@ A budgeting app that blends simplicity with intelligence. Built using Next.js, T
 → *Create custom or template budgets as a guest or logged-in user. Link your bank to view transactions and receive personalized financial recommendations.*
 
 ##
+
 ### 🤝 Let’s Connect
-<p align="center">
+<p align="left">
   <a href="mailto:mossjmyron@gmail.com"><img src="https://img.shields.io/badge/email-333333.svg?style=for-the-badge&logo=GMail&logoColor=red"/></a>
   <a href="https://www.linkedin.com/in/mossjmyron/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 ##
 
 <p align="center">
