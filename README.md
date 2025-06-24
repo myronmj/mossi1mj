@@ -14,6 +14,10 @@
 
 I'm a **Software Engineer** who's passionate about creating meaningful digital experiences and solving real-worls problems through code.
 -->
+
+### Hi, I’m Myron Moss 👨🏽‍💻
+
+I'm a Software Engineer passionate about creating clean, performant web experiences — both front-end and full-stack. From internal enterprise tools to AI-powered prototypes, I love building solutions that look good and *work even better*.
  
 <p align="center">
   <a href="mailto:mossjmyron@gmail.com"><img src="https://img.shields.io/badge/email-333333.svg?style=for-the-badge&logo=GMail&logoColor=red"/></a>
@@ -50,6 +54,8 @@ while dev.isCoding():
     dev.open_ai_tool()
     dev.drink_water()
 ```
+
+### 🔧 Languages & Tools
 
 <table align="center">
   <tr>
@@ -97,6 +103,16 @@ while dev.isCoding():
     </td>
   </tr>
 </table>
+
+### 🚀 Featured Projects
+
+**[Employee Recognition Service]( https://employee-recognition-9xlt.onrender.com)** 
+A real-time recognition platform used to highlight employee achievements. Built using Next.js, FastAPI, PostgreSQL, and WebSockets.  
+→ *Real-time updates, clean UI, and company-wide impact.*
+
+**Budget Bear** *(In Progress)*  
+A budgeting app that blends simplicity with intelligence. Built using Next.js, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, Plaid API, and OpenAI.  
+→ *Create custom or template budgets as a guest or logged-in user. Link your bank to view transactions and receive personalized financial recommendations.*
 
 ##
 
