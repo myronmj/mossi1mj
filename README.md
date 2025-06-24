@@ -6,6 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Myron%20Moss&desc=Turning%20ideas%20to%20impact%20with%20clean,%20scalable%20code&descAlign=60&descAlignY=65" />
 </p>
 
+<!---
 <p align='center'>
 <img src="avatar.PNG" alt="avatar" width="200" />
 </p>
@@ -15,36 +16,12 @@
 I'm a **Software Engineer** who's passionate about creating meaningful digital experiences and solving real-worls problems through code.
 -->
 
-### Hi, I’m Myron Moss 👨🏽‍💻
-
 I'm a Software Engineer passionate about creating clean, performant web experiences — both front-end and full-stack. From internal enterprise tools to AI-powered prototypes, I love building solutions that look good and *work even better*.
  
 <p align="center">
   <a href="mailto:mossjmyron@gmail.com"><img src="https://img.shields.io/badge/email-333333.svg?style=for-the-badge&logo=GMail&logoColor=red"/></a>
   <a href="https://www.linkedin.com/in/mossjmyron/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-```yaml
-name: Myron Moss
-current_role: Software Engineer
-technical_background:
-  [
-    "Software Engineer",
-    "Software Developer",
-    "DevOps/Release Engineer",
-    "Release Coordinator",
-  ]
-education:
-  [
-    "Bachelor's in Computer Science",
-    "Associate's in Information Technology"
-  ]
-miltary_service: {
-   branch: Army National Guard,
-   rank: Captain,
-   MOS: 31A
- }
-```
 
 ```python
 dev = Developer("Myron")
